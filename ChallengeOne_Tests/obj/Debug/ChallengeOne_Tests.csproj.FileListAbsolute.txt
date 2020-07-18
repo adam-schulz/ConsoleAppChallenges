@@ -1,0 +1,16 @@
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\ChallengeOne.Tests.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\ChallengeOne.Tests.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\ChallengeOne.Classes.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\ChallengeOne.Classes.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\obj\Debug\ChallengeOne_Tests.csprojAssemblyReference.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\obj\Debug\ChallengeOne_Tests.csproj.CoreCompileInputs.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\obj\Debug\ChallengeOne_Tests.csproj.CopyComplete
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\obj\Debug\ChallengeOne.Tests.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeOne.Tests\obj\Debug\ChallengeOne.Tests.pdb

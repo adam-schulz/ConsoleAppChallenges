@@ -1,0 +1,6 @@
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeThree_Classes\bin\Debug\ChallengeThree_Classes.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeThree_Classes\bin\Debug\ChallengeThree_Classes.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeThree_Classes\obj\Debug\ChallengeThree_Classes.csprojAssemblyReference.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeThree_Classes\obj\Debug\ChallengeThree_Classes.csproj.CoreCompileInputs.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeThree_Classes\obj\Debug\ChallengeThree_Classes.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeThree_Classes\obj\Debug\ChallengeThree_Classes.pdb

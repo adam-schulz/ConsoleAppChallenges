@@ -1,0 +1,10 @@
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\bin\Debug\ChallengeTwo_Program.exe.config
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\bin\Debug\ChallengeTwo_Program.exe
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\bin\Debug\ChallengeTwo_Program.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\bin\Debug\ChallengeTwo_Classes.dll
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\bin\Debug\ChallengeTwo_Classes.pdb
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\obj\Debug\ChallengeTwo_Program.csprojAssemblyReference.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\obj\Debug\ChallengeTwo_Program.csproj.CoreCompileInputs.cache
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\obj\Debug\ChallengeTwo_Program.csproj.CopyComplete
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\obj\Debug\ChallengeTwo_Program.exe
+C:\Users\adamm\Desktop\ElevenFiftyProjects\GoldBadge\ConsoleAppChallenges\ConsoleAppChallenges\ChallengeTwo_Program\obj\Debug\ChallengeTwo_Program.pdb
